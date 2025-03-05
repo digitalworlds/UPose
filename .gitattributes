@@ -1,7 +1,0 @@
-# 强制所有文本文件使用 LF 作为行尾
-* text=auto
-
-# 针对特定文件类型指定行尾风格
-*.cs text eol=lf
-*.sh text eol=lf
-*.bat text eol=crlf
