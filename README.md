@@ -89,6 +89,12 @@ The UPose API gets the 3D coordinates of the corresponding human joints from the
           - RightArm
             - RightForeArm
               - RightHand
+  - LeftUpLeg
+    - LeftLeg
+      - LeftFoot
+  - RightLeg
+    - LightLeg
+      -RightFoot
 ```
 
 ## ▶️ How to run
