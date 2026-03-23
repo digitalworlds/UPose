@@ -141,7 +141,8 @@ conda activate mediapipe
 
 Then you can install the dependencies of this project:
 ```
-pip install opencv-python mediapipe upose
+pip install opencv-python upose
+pip install mediapipe==0.10.14
 conda deactivate
 ```
 
